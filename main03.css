@@ -1,0 +1,14 @@
+.outer{
+  background: black;
+}
+.inner{
+   background: gold;
+}
+table{
+  text-align:center;
+}
+.box{
+  width:40px;
+  height:60px;
+  background: darkred;
+}
